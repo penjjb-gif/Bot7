@@ -1,1 +1,6 @@
-
+pyTelegramBotAPI==4.28.0
+cloudscraper==1.2.71
+requests==2.32.3
+requests-toolbelt==1.0.0
+user-agent==0.1.10
+urllib3==2.2.2
